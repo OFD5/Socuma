@@ -17,7 +17,7 @@ This Python script for OSINT (Open-Source Intelligence) tool used for finding on
 I created this tool in reference from this tool thanks to this nice tool i recommend everyone to check it out. https://github.com/thewhiteh4t/nexfil
 <br>
 
-# Similar tools 
+# Similar tools that i recommend you to use. 
 
 https://github.com/sherlock-project/sherlock
 <br>
