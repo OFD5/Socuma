@@ -30,4 +30,4 @@ The tool might provide false positives due CAPTCHA on some sites like linkedin.
 However, you  can modify the tool, this will be starting point from creating best tools in future. maybe you can help me fix this bugs in this tool. 
 
 #
-⚠ legal disclaimer : Usage of  *Cobvis* for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+⚠ legal disclaimer : Usage of  *Socuma* for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
