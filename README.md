@@ -5,10 +5,12 @@ This Python script is used for OSINT (Open-Source Intelligence) tool used for fi
 #
 ![web-link finder logo](https://raw.githubusercontent.com/OFD5/Socuma/main/socuma.run.PNG)
 # Steps to use the tool 
-1. pip install -r requirements.txt
-2. python Socuma.py
-3. Enter the name of the User: e.g Themba1
-4. e.g python socuma.py -u themba1
+1. git clone https://github.com/OFD5/Socuma.git
+2. cd Socuma
+3. pip install -r requirements.txt
+4. python Socuma.py
+5. Enter the name of the User: e.g Themba1
+6. e.g python socuma.py -u themba1
    <br>
    python socuma.py -h
    
