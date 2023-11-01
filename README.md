@@ -1,7 +1,7 @@
 # Socuma
 Find social media Acoounts
 #
-This Python script for OSINT (Open-Source Intelligence) tool used for finding online profiles associated with a given username on various social media and online platforms. 
+This Python script is used for OSINT (Open-Source Intelligence) tool used for finding online profiles associated with a given username on various social media and online platforms. 
 #
 ![web-link finder logo](https://raw.githubusercontent.com/OFD5/Socuma/main/socuma.run.PNG)
 # Steps to use the tool 
